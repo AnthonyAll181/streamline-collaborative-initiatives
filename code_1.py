@@ -1,46 +1,51 @@
-    return data
-def generate_random_data():
-import random
-    data = generate_random_data()
+        }
+        int[] data = new int[10];
 
+            System.out.println("Random Number: " + item);
+        for (int i = 0; i < 10; i++) {
+            data[i] = (int) (Math.random() * 100) + 1;
+    }
+}
+
+        }
+        for (int item : data) {
+public class RandomDataGenerator {
+    public static void main(String[] args) {
+        print(f"Random Number: {item}")
+    return data
+
+import random
+
+    data = [random.randint(1, 100) for _ in range(10)]
+    for item in data:
+    data = generate_random_data()
+def main():
+def generate_random_data():
     main()
 
-
-
-        print(f"Random Number: {item}")
-    for item in data:
-    data = [random.randint(1, 100) for _ in range(10)]
 if __name__ == "__main__":
-def main():function generateRandomData() {
-    data.forEach(item => {
-main();
 
+
+    return data
+def generate_random_data():
+    for item in data:
+import random
+    data = generate_random_data()
+        print(f"Random Number: {item}")
+
+    main()
+    data = [random.randint(1, 100) for _ in range(10)]
+def main():
+if __name__ == "__main__":        }
 }
+        int[] data = new int[10];
+        for (int i = 0; i < 10; i++) {
     }
-        console.log("Random Number: " + item);
-        data.push(Math.floor(Math.random() * 100) + 1);
+            System.out.println("Random Number: " + item);
+public class RandomDataGenerator {
+        }
+            data[i] = (int) (Math.random() * 100) + 1;
 
-    return data;
-function main() {
-}
-    const data = [];
+    public static void main(String[] args) {
 
-    const data = generateRandomData();
-    for (let i = 0; i < 10; i++) {
-    });
-    });
-function generateRandomData() {
-main();
-
-
-function main() {
-}
-    const data = [];
-    return data;
-        console.log("Random Number: " + item);
-    data.forEach(item => {
-    }
-    for (let i = 0; i < 10; i++) {
-        data.push(Math.floor(Math.random() * 100) + 1);
-    const data = generateRandomData();
-}
+        for (int item : data) {
